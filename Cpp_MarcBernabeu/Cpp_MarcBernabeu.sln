@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Github", "Github\Github.vcxproj", "{62B738E9-E980-435E-A40E-73F07447B0CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheWalkingDead", "TheWalkingDead\TheWalkingDead.vcxproj", "{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{62B738E9-E980-435E-A40E-73F07447B0CF}.Release|x64.Build.0 = Release|x64
 		{62B738E9-E980-435E-A40E-73F07447B0CF}.Release|x86.ActiveCfg = Release|Win32
 		{62B738E9-E980-435E-A40E-73F07447B0CF}.Release|x86.Build.0 = Release|Win32
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Debug|x64.ActiveCfg = Debug|x64
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Debug|x64.Build.0 = Debug|x64
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Debug|x86.Build.0 = Debug|Win32
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Release|x64.ActiveCfg = Release|x64
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Release|x64.Build.0 = Release|x64
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Release|x86.ActiveCfg = Release|Win32
+		{4EFC2626-BF2E-40E4-AF4A-36620D616A6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
