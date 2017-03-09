@@ -1,7 +1,7 @@
 #include "Circle.h"
 
 
-Circle::circle(float a, float b, float r) :coorX{ a }, coorY{ b }, radio{ r }
+Circle::Circle(float a, float b, float r) :coorX{ a }, coorY{ b }, radio{ r }
 {
 
 }

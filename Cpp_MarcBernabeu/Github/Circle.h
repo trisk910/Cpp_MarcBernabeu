@@ -11,5 +11,5 @@ public:
 	Circle(float a, float b, float r);
 	~Circle();
 	float GetRadio();
-	float GetArea();
+	float Area();
 };
